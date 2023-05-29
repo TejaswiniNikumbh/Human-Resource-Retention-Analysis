@@ -11,7 +11,7 @@ Analyzed frequency distributions and created bar plots for categorical variables
 Conducted correlation analysis to identify significant relationships among features.</br>
 Some graphs for insights:
 ![image](https://github.com/TejaswiniNikumbh/Human-Resource-Retention-Analysis/assets/92621668/260c2669-4036-4e2d-aee0-2cbcd5ca0c7c)
-![image](https://github.com/TejaswiniNikumbh/Human-Resource-Retention-Analysis/assets/92621668/9347ab37-c080-4fe2-bc48-f4bddbfa7213)
+
 ![image](https://github.com/TejaswiniNikumbh/Human-Resource-Retention-Analysis/assets/92621668/dc90f1f0-09eb-400f-a86c-5b8fc88c8e99)
 ![image](https://github.com/TejaswiniNikumbh/Human-Resource-Retention-Analysis/assets/92621668/ea130fff-56b7-4e4a-87a8-422c72641f49)
 
