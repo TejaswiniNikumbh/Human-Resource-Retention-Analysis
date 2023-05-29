@@ -1,7 +1,7 @@
 # Human-Resource-Retention-Analysis
-In this project, I developed a machine learning model to predict employee attrition. I started by exploring and understanding the dataset, getting insights into the different features and their distributions. After that, I preprocessed the data, handling missing values, encoding categorical variables, and performing feature scaling.
+In this project, I developed a machine learning model to predict employee attrition. I started by exploring and understanding the dataset, getting insights into the different features and their distributions. After that, I preprocessed the data, handling missing values, encoding categorical variables, and performing feature scaling.</br>
 
-To predict employee attrition, I implemented two machine learning algorithms: logistic regression and random forest classifier. I trained these models using the preprocessed data and evaluated their performance using various metrics such as accuracy, confusion matrix, and classification report.
+To predict employee attrition, I implemented two machine learning algorithms: logistic regression and random forest classifier. I trained these models using the preprocessed data and evaluated their performance using various metrics such as accuracy, confusion matrix, and classification report.</br>
 ###EDA Steps
 Explored the dataset to understand its structure and variables present.</br>
 Calculated summary statistics for numerical variables to assess distribution and range.</br>
